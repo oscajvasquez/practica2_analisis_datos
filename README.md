@@ -4,16 +4,18 @@ Repositorio creado para la solución de la práctica 2 sobre limpieza y análisi
 ## Autor: 
 Oscar Javier Vásquez Casallas
 
-##Dataset
+## Dataset
 Heart Failure Prediction Dataset
 
 El repositorio está conformado por:
   
-  Carpeta dataset donde se encuentra heart.csv el cual corresponde al dataset riginal. df_heart el cual corresponde al dataset donde se realiza la gestión de datos atipicos y valores nulos y 0. 
+## Carpeta dataset 
+Donde se encuentra: heart.csv el cual corresponde al dataset original; df_heart el cual corresponde al dataset donde se realiza la gestión de datos atipicos y valores nulos y 0; df_heart1 el cuial corresponde al dataset final que se utiliza para la aplicaciuón de los algoritmos de clasificación. 
   
-  Carpeta source donde se encuentra el archivo PracticaAnalisisDatos.ipynb correspondiente al código fuente
+## Carpeta source 
+Donde se encuentra el archivo PracticaAnalisisDatos.ipynb correspondiente al código fuente
   
-  PRÁCTICA 2 - DOCUMENTO MEMORIA: Documento de respuestas
-  
+## PRÁCTICA 2 - DOCUMENTO MEMORIA: Documento de respuestas 
 
-Video de Presentación: https://drive.google.com/file/d/1MNo-66p1hUCVInlRcR3PQJ0P9yBGBjOc/view?usp=share_link
+## Video de Presentación
+https://drive.google.com/file/d/1MNo-66p1hUCVInlRcR3PQJ0P9yBGBjOc/view?usp=share_link
