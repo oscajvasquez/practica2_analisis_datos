@@ -1,11 +1,11 @@
-# practica2_analisis_datos
-Repositorio parala practica 2 sobre limpieza y análisis de datos
-
+# Practica 2 analisis de datos
 Repositorio creado para la solución de la práctica 2 sobre limpieza y análisis de datos de la materia Tipología y ciclo de vida de los datos
 
-## Autor: Oscar Javier Vásquez Casallas
+## Autor: 
+Oscar Javier Vásquez Casallas
 
-Dataset: Heart Failure Prediction Dataset
+##Dataset
+Heart Failure Prediction Dataset
 
 El repositorio está conformado por:
   
