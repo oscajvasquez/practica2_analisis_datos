@@ -15,7 +15,8 @@ Donde se encuentra: heart.csv el cual corresponde al dataset original; df_heart 
 ## Carpeta source 
 Donde se encuentra el archivo PracticaAnalisisDatos.ipynb correspondiente al código fuente
   
-## PRÁCTICA 2 - DOCUMENTO MEMORIA: Documento de respuestas 
+## PRÁCTICA 2 - DOCUMENTO MEMORIA
+Documento de respuestas 
 
 ## Video de Presentación
 https://drive.google.com/file/d/1MNo-66p1hUCVInlRcR3PQJ0P9yBGBjOc/view?usp=share_link
