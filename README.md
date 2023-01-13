@@ -7,7 +7,7 @@ Oscar Javier Vásquez Casallas
 ## Dataset
 Heart Failure Prediction Dataset
 
-El repositorio está conformado por:
+## El repositorio está conformado por:
   
 ## Carpeta dataset 
 Donde se encuentra: heart.csv el cual corresponde al dataset original; df_heart el cual corresponde al dataset donde se realiza la gestión de datos atipicos y valores nulos y 0; df_heart1 el cuial corresponde al dataset final que se utiliza para la aplicaciuón de los algoritmos de clasificación. 
