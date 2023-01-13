@@ -19,4 +19,4 @@ Donde se encuentra el archivo PracticaAnalisisDatos.ipynb correspondiente al có
 Documento de respuestas 
 
 ## Video de Presentación
-https://drive.google.com/file/d/1MNo-66p1hUCVInlRcR3PQJ0P9yBGBjOc/view?usp=share_link
+https://drive.google.com/file/d/1KLCghBcoXQ_UrqYmUiy7lXV7MUvaRS3M/view
